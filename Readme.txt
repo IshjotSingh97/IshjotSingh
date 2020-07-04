@@ -1,6 +1,8 @@
-Thanks for downloading this template!
+MDB5
+Version: FREE 1.0.0-alpha1
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Documentation:
+https://mdbootstrap.com/docs/standard/
+
+Contact:
+office@mdbootstrap.com
