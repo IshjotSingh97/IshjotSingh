@@ -1,7 +1,11 @@
 # IshjotSingh
 <br>
+Website:
+<br>
 https://ishjotsingh97.github.io/IshjotSingh/
 <br>
-https://bit.ly/IshjotSinghResume
+Resume:
+<br>
+https://drive.google.com/file/d/1BdBfwBDAMhniZR8JoFE9CkJ_Me9kW3QJ/view?usp=sharing
 
 
