@@ -1,11 +1,10 @@
-# # Ishjot Singh Website and Resume
-<br>
+# Ishjot Singh Website and Resume
+
 Website:
-<br>
 https://ishjotsingh97.github.io/IshjotSingh/
-<br>
 Resume:
-<br>
 https://drive.google.com/file/d/1BdBfwBDAMhniZR8JoFE9CkJ_Me9kW3QJ/view?usp=sharing
-<br>
-Resume can be viewed and downloaded from website as well.
+LinkedIn:
+https://in.linkedin.com/in/ishjot-singh-ahluwalia-427721196
+Github:
+https://github.com/IshjotSingh97
